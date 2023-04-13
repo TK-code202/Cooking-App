@@ -12,8 +12,7 @@ function convertGToL(number1) {
 function convertLToG(number2) {
     return number2 / 3.785;
 }
-// const number4 = parseFloat(prompt("Enter A Number In Liters:"));
-// const result1 = convertLToG(number4);
+
 
 
 
@@ -21,31 +20,27 @@ function convertLToG(number2) {
 function convertTbToMl(number3) {
     return number3 * 15;
 }
-// const number5 = parseFloat(prompt("Enter A Number In Tablespoon:"));
-// const result2 = convertTbToMl(number5);
+
 
 
 
 function convertMlToTb(number4) {
     return number4 / 15;
 }
-// const number6 = parseFloat(prompt("Enter A Number In Milliliters:"));
-// const result3 = convertMlToTb(number6);
+
 
 
 
 function convertOuToMl(number5) {
     return number5 * 30;
 }
-// const number7 = parseFloat(prompt("Enter A Number In Ounces:"));
-// const result4 = convertOuToMl(number7);
+
 
 
 function convertMlToOu(number6) {
     return number6 / 30;
 }
-// const number8 = parseFloat(prompt("Enter A Number In Milliliters:"));
-// const result5 = convertMlToOu(number8);
+
 
 
 
