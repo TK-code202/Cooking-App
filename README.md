@@ -14,7 +14,7 @@
 
 ## Description
 
-_The application contains seperate forms for performing different conversions. The user inputs the numbers and the result is returned in a different unit. There are only a few unit conversions available in this application._
+_This application contains seperate forms for performing different conversions. The user inputs the numbers and the result is returned in a different unit. There are only a few unit conversions available in this application._
 
 ## Setup/Installation Requirements
 
