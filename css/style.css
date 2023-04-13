@@ -1,0 +1,46 @@
+body {
+    background-image: url(/img/pexels-olia-danilevich-9004736.jpg);
+    background-size: cover;
+    padding-top: 8px;
+    color: cadetblue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+label {
+    font-size: 24px;
+}
+.content {
+    border-radius: 5px;
+    margin-top: 1rem;
+    background-color: rgb(88, 86, 86);
+    width: 70%;
+    padding: 15px;
+    margin-left: 12rem;
+    justify-content: center;
+}
+
+.converter{
+    padding: 8px;
+    border-radius: 3px;
+    background-color: rgb(185, 21, 21);
+}
+
+#outputOne, #outputTwo, #outputThree, #outputFour, #outputFive, #outputSix {
+    margin-top: 2px;
+    font-size: 30px;
+    color: white;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+    margin-top: 7px;
+    height: 60px;
+}
+
+.footer p {
+    color: white;
+    font-size: 22px;
+}
